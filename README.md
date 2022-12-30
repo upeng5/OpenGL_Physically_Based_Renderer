@@ -1,5 +1,5 @@
 # OpenGL Physically Based Renderer
-An OpenGL 4.6 model viewer made as a learning project.
+An OpenGL 4.6 Image-Based Lighting & Physically Based Renderer 
 
 # Examples
 ![](https://github.com/upeng5/OpenGL_Physically_Based_Renderer/blob/master/screenshot1.png)
