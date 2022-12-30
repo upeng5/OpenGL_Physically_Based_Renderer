@@ -2,8 +2,6 @@
 An OpenGL 4.6 model viewer made as a learning project.
 
 # Examples
-![](https://github.com/upeng5/OpenGL_Physically_Based_Renderer/blob/master/screenshot1.png)
-
 <br />
 ![](https://github.com/upeng5/OpenGL_Physically_Based_Renderer/blob/master/screenshot2.png)
 
